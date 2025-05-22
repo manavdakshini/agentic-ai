@@ -1,1 +1,1 @@
-# Image files for spanish version
+# Images for spanish version
